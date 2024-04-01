@@ -1,6 +1,5 @@
 # SSL
 Sintaxis y Semántica de los Lenguajes
-Repositorio público personal para la asignatura.
 
 • Curso: K1052 
 
